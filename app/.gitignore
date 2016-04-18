@@ -1,0 +1,35 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+#IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+#Android auto gen files
+bin/
+gen/
+local.properties
+default.properties
+
+
+#gradle / Android Stuido build folders
+build/
+
+# OS auto gen folder information
+.DS_Store
+Thumbs.db
+
+#temp files
+*.bak
+*.tmp
+*.temp
+*.swp
+*.vpp~*
+*.*~
+~*.*
