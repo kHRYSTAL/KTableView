@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i <= rowNames.size(); i++) {
             List<String> rows = new ArrayList<>();
             for (int j = 0; j <= columnNames.size(); j++) {
-                if (j==0) rows.add("Row"+j);
+                if (j==0) rows.add("Row"+i);
                 else rows.add("Data"+j);
             }
             rowsData.add(rows);

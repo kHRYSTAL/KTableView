@@ -11,7 +11,7 @@ it's support：
 
 
 ##screenshot
-![ss-1](https://github.com/kHRYSTAL/KTableView/blob/master/screenshoot/screenshoot1.jpg)
+![ss-1](https://github.com/kHRYSTAL/KTableView/blob/master/screenshoot/screenshoot.gif)
 
 
 ##Setup with Android Studio
